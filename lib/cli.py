@@ -18,14 +18,14 @@ def clear():
 
 def github_version():
 	try:
-		version = requests.get("https://raw.githubusercontent.com/BitTheByte/YouTubeShop/master/version").text
+		version = requests.get("https://raw.githubusercontent.com/sniper57/YouTubeShop/master/version").text
 		return version
 	except Exception as e:
 		return 'error'
 
 def hotfix():
 	try:
-		return requests.get("https://raw.githubusercontent.com/BitTheByte/YouTubeShop/master/lib/hotfix.py").text
+		return requests.get("https://raw.githubusercontent.com/sniper57/YouTubeShop/master/lib/hotfix.py").text
 	except Exception as e:
 		return ''
 
@@ -48,8 +48,8 @@ def banner():
  >>> 	    |_|   |_|   |____/|_| |_|\___/|_|              <<<
  >>> 	                                                   <<<
  >>> ===================================================== <<<
- >>> [DEV] : BitTheByte (Ahmed Ezzat)                      <<<
- >>> [GitHub] : https://www.github.com/bitthebyte          <<<
+ >>> [DEV] : SNIPER57 (John Patrick G)                     <<<
+ >>> [GitHub] : https://www.github.com/sniper57            <<<
  >>> +++++++++++++++++++++++++++++++++++++++++++++++++++++ <<<
                [!] Version::local  - 12.8.3v                             
                [!] Version::github - {}    
