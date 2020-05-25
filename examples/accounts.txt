@@ -1,10 +1,4 @@
-gmailaccount:pass
-gmailaccount:pass
-gmailaccount:pass
-gmailaccount:pass
-gmailaccount:pass
-gmailaccount:pass
-gmailaccount:pass
-gmailaccount:pass
-gmailaccount:pass
-gmailaccount:pass
+gmailaccount:password
+gmailaccount:password
+gmailaccount:password
+gmailaccount:password
