@@ -3,7 +3,7 @@
 Youtube bot for auto-like and auto-subscribe  
 
 ```
-                      >>> ===================================================== <<<
+                      >>> ================================================ <<<
                       >>> 	                                                <<<
                       >>> 	  __   _______   ____  _   _  ___  ____         <<<
                       >>> 	  \ \ / |_   _| / ___|| | | |/ _ \|  _ \        <<<
@@ -11,11 +11,11 @@ Youtube bot for auto-like and auto-subscribe
                       >>> 	    | |   | |    ___) |  _  | |_| |  __/        <<<
                       >>> 	    |_|   |_|   |____/|_| |_|\___/|_|           <<<
                       >>> 	                                                <<<
-                      >>> ===================================================== <<<
-                      >>> [DEV] : BitTheByte (Ahmed Ezzat)                      <<<
-                      >>> [GitHub] : https://www.github.com/bitthebyte          <<<
-                      >>> [Version] : 12.8.3v                                   <<<
-                      >>> +++++++++++++++++++++++++++++++++++++++++++++++++++++ <<<
+                      >>> ================================================ <<<
+                      >>> [DEV] : SNIPER57 (John Patrick G)                <<<
+                      >>> [GitHub] : https://www.github.com/sniper57       <<<
+                      >>> [Version] : 12.8.3v                              <<<
+                      >>> ++++++++++++++++++++++++++++++++++++++++++++++++ <<<
 ```
 Showcase: https://streamable.com/yi7o0
 
@@ -42,7 +42,7 @@ Make sure to have chrome installed before using. I didn't use selenium for full 
   - 2 Files [Emails Combo, Action File]
 
 ### Emails
-Your emails combo file should follow this format e.g[ [accounts.txt](https://github.com/BitTheByte/YouTubeShop/blob/master/examples/accounts.txt) ]
+Your emails combo file should follow this format e.g[ [accounts.txt](https://github.com/sniper57/YouTubeShop/blob/master/examples/accounts.txt) ]
 ```
 email0@domain.com:0123456789
 email1@domain.com:0123456789
@@ -51,7 +51,7 @@ email2@domain.com:0123456789
 
   
 ### Like
-You need to create a file which contains videos IDs list e.g[ [actions.txt](https://github.com/BitTheByte/YouTubeShop/blob/master/examples/actions.txt) ]. Don't use the full url use the id only
+You need to create a file which contains videos IDs list e.g[ [actions.txt](https://github.com/sniper57/YouTubeShop/blob/master/examples/actions.txt) ]. Don't use the full url use the id only
 - https://www.youtube.com/watch?v=XnEqfTjp66A [❌]
 - XnEqfTjp66A [✔️]
 #### Multiple Videos Example
@@ -93,7 +93,6 @@ UCto7D1L-MiRoOziCXK9uT5Q
 - Advanced debugging mode for advanced users ✓
 - Migrate to module instead of single `.py` file ✓
 
-# Donation
-**Buy me a digital coffee :)** BTC:36JDUYhEWWiPBXssQYeR2iwoG12KT8dmtJ :point_left:  
 
-Made with ❤️ in Egypt 
+
+Made with ❤️ in PH 
